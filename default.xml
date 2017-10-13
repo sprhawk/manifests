@@ -10,7 +10,7 @@
   <remote fetch="git://github.com/meta-qt5"  name="QT5"/>
   <remote fetch="git://github.com/koenkooi"  name="KODI"/>
     
-  <project remote="sprhawk" revision="master" name="meta-rockchip" path="sources/meta-rockchip"/>
+  <project remote="sprhawk" revision="fix-firefly-yocto" name="meta-rockchip" path="sources/meta-rockchip"/>
   <project remote="rockchip" revision="master" name="meta-rockchip-extra" path="sources/meta-rockchip-extra"/>
  
   <project remote="rockchip" revision="master" name="rkbin" path="rkbin"/>
