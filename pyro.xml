@@ -8,8 +8,9 @@
   <remote fetch="git://github.com/OSSystems" name="OSSystems"/>
   <remote fetch="git://github.com/meta-qt5"  name="QT5"/>
   <remote fetch="git://github.com/koenkooi"  name="KODI"/>
+  <remote fetch="git://github.com/sprhawk" name="sprhawk"/>
     
-  <project remote="rockchip" revision="pyro" name="meta-rockchip" path="sources/meta-rockchip"/>
+  <project remote="sprhawk" revision="fix-rockchip" name="meta-rockchip" path="sources/meta-rockchip"/>
   <project remote="rockchip" revision="pyro" name="meta-rockchip-extra" path="sources/meta-rockchip-extra"/>
  
   <project remote="rockchip" revision="master" name="rkbin" path="rkbin"/>
